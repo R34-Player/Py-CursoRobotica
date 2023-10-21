@@ -1,1 +1,2 @@
 cd ~/Movimiento_Basico && brickrun -r -- pybricks-micropython
+brickrun -r -- pybricks-micropython
